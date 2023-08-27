@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appSettings>
+	<!--Лента-->
+	<add key="RssFeed" value="https://habr.com/rss/interesting/" />
+	<!--Частота обновления (сек)-->
+	<add key="RssUpdateInterval" value="30" />
+	<!--Адрес прокси-->
+	<add key="ProxyAddress" value="185.199.229.156:7492" />
+	<!--Пользователь прокси-->
+	<add key="ProxyUser" value="xperfcoc" />
+	<!--Пароль пользователя прокси-->
+	<add key="ProxyPassword" value="zxt3nyieu9u0" />
+</appSettings>
